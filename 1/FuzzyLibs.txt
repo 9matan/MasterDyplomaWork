@@ -1,0 +1,3 @@
+FFLL - Free Fuzzy Logic Library
+Fuzzy Logic Programming Library
+FuzzyLite
